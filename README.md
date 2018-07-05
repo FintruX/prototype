@@ -5,4 +5,8 @@ FintruX is the world’s first blockchain based online marketplace and automated
 ## Status 
 Current status is internal alpha. You can find our prototype at https://www.fintrux.com/demo/login.html.
 
+## Roadmap 
 Please see our roadmap at https://www.fintrux.com/roadmap 
+
+## Contracts 
+In our prototype, we demonstrate our no-code generation capabilities to generate a unique smart contract based on the lending parameters selected. The generated contract is fully open sourced and auditable.
